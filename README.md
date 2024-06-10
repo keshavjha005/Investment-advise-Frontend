@@ -1,4 +1,4 @@
-# UrFry
+# Uifry
 
 UrFry is a single landing page application with smooth scrolling effects, developed using HTML, CSS, JavaScript, React, and Chakra UI. It features sections such as Home, Features, Advantages, About Us, and FAQs. The smooth scrolling effect is implemented using the `react-scroll` library.
 
